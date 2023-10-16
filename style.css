@@ -1,0 +1,164 @@
+/* this will style the body */
+body {
+    background-color: aliceblue;
+    background-image: url(images/departmentOfCoffee.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+/* This will style your wrapper class to center the content */
+.Wrapper {
+    width: 1024px;
+    min-height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+/* This will style the Header */
+header {
+
+    min-height: 120px;
+
+}
+
+/* style logo */
+.logoImage {
+    height: 120px;
+}
+
+/* style nav */
+nav {
+    background-color: rgba(65, 105, 225, 0.54);
+    text-align: center;
+    padding-top: 16px;
+    min-height: 45px;
+}
+
+/* style links to other pages */
+nav a {
+    text-decoration: none;
+    font-size: 18px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: lightgray;
+}
+
+/* style the main */
+main {
+
+    min-height: 375px;
+    text-align: center;
+    padding-left: 230px;
+    padding-right: 230px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+
+main h1 {
+
+    font-size: 85px;
+    font-family: 'Times New Roman', Times, serif;
+    color: whitesmoke;
+    text-shadow: 3px 2px 2px darkgrey;
+}
+
+main h2 {
+    font-size: 25Spx;
+    font-family: 'Times New Roman', Times, serif;
+    color: whitesmoke;
+    text-shadow: 2px 2px 2px darkgray;
+}
+
+main p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color: rgb(200, 200, 200);
+}
+
+.map {
+
+
+    min-height: 120px;
+    text-align: center;
+}
+
+footer {
+    background-color: rgba(90, 91, 91, 0.334);
+    min-height: 80px;
+
+}
+
+footer p {
+    color: rgb(225, 225, 226);
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 16px;
+}
+
+.body2 {
+    background-image: url(images/Coffee_beans2.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 1000px;
+}
+
+.main2 {
+
+
+    min-height: 375px;
+    text-align: center;
+    padding-left: 23px;
+    padding-right: 23px;
+    padding-top: 16px;
+}
+
+
+.main2 h1 {
+
+    font-size: 85px;
+    font-family: 'Times New Roman', Times, serif;
+    color: whitesmoke;
+    text-shadow: 3px 2px 2px darkgrey;
+}
+
+.main2 h2 {
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    color: whitesmoke;
+    text-shadow: 2px 2px 2px darkgray;
+}
+
+.main2 h3 {
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    color: whitesmoke;
+    text-shadow: 1.5px 1.5px 1.5px darkgray;
+
+}
+
+.main2 p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+    color: rgb(232, 232, 232);
+    text-shadow: 1px 1px 1px darkgrey;
+}
+
+.Para2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: rgb(232, 232, 232);
+    text-shadow: 1px 1px 1px darkgrey;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.img2 {
+    max-height: 30px;
+    max-width: 20px;
+    vertical-align: middle;
+
+}
